@@ -106,9 +106,9 @@
 2. 
 3. 
 
-### Target Implementation Date:**
+### Target Implementation Date:
 
-### Implementation Owner:**
+### Implementation Owner:
 
 ### Success Criteria
 *How will we know the change has been successfully implemented?*
@@ -120,11 +120,11 @@
 
 ## Communication Plan
 
-### Who Needs to be Notified:**
+### Who Needs to be Notified:
 
-### Communication Method:**
+### Communication Method:
 
-### Communication Timing:**
+### Communication Timing:
 
 ---
 
