@@ -39,13 +39,21 @@ For Copilot Spaces integration, these documents can be added to `.copilot/` in y
 ### Core Process Guides
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** – High-level introduction to OctoAcme's project management principles, roles, artifacts, and lifecycle
-- **[Roles & Personas](octoacme-roles-and-personas.md)** – Detailed definitions of Project Managers, Product Managers, Developers, QA/Testing, and Stakeholder responsibilities
+- **[Roles & Personas](octoacme-roles-and-personas.md)** – Detailed definitions of Project Managers, Product Managers, Developers, Change Managers, Communications Leads, QA Leads, Data Stewards, and other key roles
+- **[RACI Matrix](octoacme-raci-matrix.md)** – Responsibility assignment matrix showing who is Responsible, Accountable, Consulted, and Informed for key project activities
 - **[Project Initiation Guide](octoacme-project-initiation.md)** – Steps to validate business need, create a project one-pager, and move into planning
 - **[Project Planning](octoacme-project-planning.md)** – Guidance for creating backlogs, estimating work, defining acceptance criteria, and identifying dependencies
 - **[Execution & Tracking](octoacme-execution-and-tracking.md)** – Daily workflows, PR processes, quality practices, and progress tracking
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** – Risk register templates, stakeholder communication, and escalation paths
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** – Pre-release requirements, deployment checklists, and rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** – Running retrospectives and tracking improvement action items
+
+### Templates & Checklists
+
+- **[Change Request Template](templates/change-request-template.md)** – Standardized form for documenting and evaluating proposed changes
+- **[Communications Plan Template](templates/communications-plan-template.md)** – Comprehensive template for developing project communication strategies
+- **[Quality Gates Checklist](checklists/quality-gates-checklist.md)** – Quality gates and criteria to meet at each phase of the project lifecycle
+- **[Data Stewardship Checklist](checklists/data-stewardship-checklist.md)** – Comprehensive checklist for data quality, security, and governance activities
 
 ## Key Principles
 
